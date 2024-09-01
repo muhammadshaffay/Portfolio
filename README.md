@@ -5,6 +5,12 @@ B.S. Artificial Intelligence || FAST NUCES - Islamabad
 
 ## Work Experience
 
+#### AI/ML Engineer @ AIOapp
+(June 2024 - Present)
+
+#### AI/ML Engineer @ Centrox AI
+(December 2023 - June 2024)
+
 #### ML & NLP Intern @ AIM Lab - FAST NUCES
 (June 2022 - August 2022)
 - **Urdu MCQ Solver**: Fine-tuned an attention masking-based language model that solves Urdu MCQs with over 90% accuracy.
@@ -26,5 +32,6 @@ B.S. Artificial Intelligence || FAST NUCES - Islamabad
 
 ## Achievements
 Data Scraping Competition Winner @ SOFTEC - 23
+
 
 ## Tools & Technologies
