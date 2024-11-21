@@ -26,6 +26,6 @@ B.S. Artificial Intelligence || FAST NUCES - Islamabad
 - **Roman Urdu Tokenizer**: Developed a tokenizer that can handle 4000+ compound words for Roman Urdu text preprocessing.
 
 ## Achievements
-AI Hackatopia - 2nd Runner-Up @ NaSCon-24
-AI Marketing Campaign - Winner @ AIO Hackathon
-Data Scraping Competition - Winner @ SOFTEC-23
+- AI Hackatopia - 2nd Runner-Up @ NaSCon-24
+- AI Marketing Campaign - Winner @ AIO Hackathon
+- Data Scraping Competition - Winner @ SOFTEC-23
